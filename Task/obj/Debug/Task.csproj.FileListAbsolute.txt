@@ -1,0 +1,6 @@
+/Users/saedyousef/Sites/ASPDOTNET/Task/Task/bin/Task.dll
+/Users/saedyousef/Sites/ASPDOTNET/Task/Task/bin/Task.pdb
+/Users/saedyousef/Sites/ASPDOTNET/Task/Task/obj/Debug/Task.csprojAssemblyReference.cache
+/Users/saedyousef/Sites/ASPDOTNET/Task/Task/obj/Debug/Task.csproj.CoreCompileInputs.cache
+/Users/saedyousef/Sites/ASPDOTNET/Task/Task/obj/Debug/Task.dll
+/Users/saedyousef/Sites/ASPDOTNET/Task/Task/obj/Debug/Task.pdb
